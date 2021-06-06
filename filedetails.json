@@ -2,7 +2,7 @@
   "ovpn_file":[
     {"id":0,"file":"client
 dev tun
-proto udp
+proto tcp
 setenv FORWARD_COMPATIBLE 1
 server-poll-timeout 4
 nobind
