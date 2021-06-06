@@ -1,3 +1,6 @@
+{
+  "ovpn_file":[
+    {"id":0,"file":"
 setenv FORWARD_COMPATIBLE 1
 client
 proto tcp
@@ -89,4 +92,7 @@ QT+GxRcJfOHamnwe2SXeqwcBSRKyTTpsL2fTXrJJ8y+796ky2KKDiyL0uAe6MJp0
 </key>
 
 key-direction 1
-<tls-auth>
+<tls-auth>"},
+   ]
+}
+    
