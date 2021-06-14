@@ -7,12 +7,9 @@
     "size":"https://git.io/JeY69"
   }],
   "blocked":[
-    {"id":0, "app":"com.android.game"},
-    {"id":1, "app":"com.get.client"}
-  ],
+    {"id":0, "app":"com.android.game"}
+   ],
   "free":[
-     {"id":0, "file":0, "city":"Kotha247","country":"United States","image":"singapore","ip":"205.185.119.100","active":"true","signal":"a"},
-     {"id":1, "file":0, "city":"Sydney","country":"United States","image":"australia","ip":"205.185.119.100","active":"true","signal":"b"}
-    
-  ]
+     {"id":0, "file":0, "city":"Kotha247","country":"United States","image":"singapore","ip":"205.185.119.100","active":"true","signal":"a"}
+         ]
 }
