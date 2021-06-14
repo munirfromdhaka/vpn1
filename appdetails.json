@@ -16,6 +16,6 @@
     {"id":6, "app":"com.get.client"}
   ],
   "free":[
-    {"id":0, "file":0, "city":"Singapore","country":"Singapore","image":"singapore","ip":"206.189.42.18","active":"true","signal":"a"}
+    {"id":0, "file":0, "city":"Singapore","country":"Singapore","image":"singapore","ip":"165.22.244.100","active":"true","signal":"a"}
   ]
 }
