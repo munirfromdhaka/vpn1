@@ -56,7 +56,28 @@ p29dGhfsdqsbqZX89lJFeC9lfEihRANCAATO+DKY5NGeRHbNeVnYj+EUqCScv7IQ
 ix83Ek/N8uSRRZ/4F1trPxx3KdZk0WBD2bRv2PHRfH/Lhwc8fwHLysTt
 -----END PRIVATE KEY-----
 </key>
-key-direction 1
-<tls-auth>"},
+<tls-crypt>
+#
+# 2048 bit OpenVPN static key
+#
+-----BEGIN OpenVPN Static key V1-----
+c8ca34ed62e21dfa45fa94036186750d
+a3fd8b98eeb86b9d95bac4c8ea0fa009
+24bb8e18cd83ca326bb592696a87af16
+6931dcf9b16ab73b23032b672f26295f
+c00f36364408c0d3ce866214cbb51435
+606b2b91960b59ae3f583bbfdd4c24ef
+f42163ed248579a2987297c482364f13
+3f71d0be732490c4876fb0e876c1da6b
+b729b4447d380c2bb563cc12c86d0043
+fa838befa2e637de866eecf7a67a7f9a
+4f1c5ff6822a7303c8a1c8c0633ed125
+51b34924c89259c48566659a52b16a7e
+948ba14ecf8449e7562aa9078d937359
+94c5ccc537d42aedf3985698cb3477f6
+c104121e61e649ae0af9f37428ede244
+27a61f0336fae02c883cefb14deeff69
+-----END OpenVPN Static key V1-----
+</tls-crypt>"},
    ]
 }
